@@ -68,6 +68,6 @@
     "gulp-rimraf": "^1.0.0",
     "np": "^6.4.0",
     "react-scripts": "3.4.1",
-    "storybook": "^5.3.19"
+    "storybook": "^10.1.11"
   }
 }
